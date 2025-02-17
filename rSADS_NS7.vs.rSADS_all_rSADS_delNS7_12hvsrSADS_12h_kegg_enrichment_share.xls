@@ -1,0 +1,19 @@
+Description	Pvalue	Ratio	Count	Type	ID
+Arginine biosynthesis	0.0791218882553424	0.6666666666666666	4	Meta	L-Aspartic acid; N-Acetyl-L-glutamic acid; Alpha-Ketoglutaric acid; L-Glutamic acid
+Arginine biosynthesis	0.00140753423288961	0.10526315789473684	2	Tran	ENSSSCG00000004195/ENSSSCG00000024179
+Oxytocin signaling pathway	0.315436241610738	1.0	1	Meta	Arachidonic acid
+Oxytocin signaling pathway	0.355408077255485	0.00684931506849315	1	Tran	ENSSSCG00000001986
+Glycolysis / Gluconeogenesis	0.532831489207328	0.5	1	Meta	Pyruvic Acid
+Glycolysis / Gluconeogenesis	0.169313263126794	0.016129032258064516	1	Tran	ENSSSCG00000007507
+cGMP-PKG signaling pathway	0.532831489207328	0.5	1	Meta	5'-Guanylic acid
+cGMP-PKG signaling pathway	0.0856627432124119	0.012121212121212121	2	Tran	ENSSSCG00000001986/ENSSSCG00000002029
+Retrograde endocannabinoid signaling	0.532831489207328	0.5	1	Meta	Arachidonic acid
+Retrograde endocannabinoid signaling	0.353448583126813	0.006896551724137931	1	Tran	ENSSSCG00000024134
+Regulation of lipolysis in adipocytes	0.532831489207328	0.5	1	Meta	Arachidonic acid
+Regulation of lipolysis in adipocytes	0.151671000690466	0.01818181818181818	1	Tran	ENSSSCG00000024134
+Histidine metabolism	0.678875756588773	0.42857142857142855	3	Meta	L-Aspartic acid; Alpha-Ketoglutaric acid; L-Glutamic acid
+Histidine metabolism	0.0635503115611575	0.045454545454545456	1	Tran	ENSSSCG00000004644
+Arginine and proline metabolism	0.742209720767666	0.36363636363636365	4	Meta	L-Glutamic acid; Pyruvic Acid; 5-Aminovaleric acid; Putrescine
+Arginine and proline metabolism	0.00953217785244772	0.04	2	Tran	ENSSSCG00000004195/ENSSSCG00000003463
+ABC transporters	0.796433325820388	0.375	6	Meta	Lactose; N,N'-diacetylchitobiose; Putrescine; Butyro-betaine; Choline; L-Phenylalanine
+ABC transporters	0.141429076059273	0.0196078431372549	1	Tran	ENSSSCG00000015113
