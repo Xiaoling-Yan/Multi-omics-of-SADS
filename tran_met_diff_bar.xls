@@ -1,0 +1,9 @@
+Compared Samples	Type	variable	value	classname
+rSADS_NS3a.vs.rSADS(rSADS_delNS3a_12hvsrSADS_12h)	Up	GeneNum	3	GeneNum_Up
+rSADS_NS3a.vs.rSADS(rSADS_delNS3a_12hvsrSADS_12h)	Down	GeneNum	1	GeneNum_Down
+rSADS_NS7.vs.rSADS(rSADS_delNS7_12hvsrSADS_12h)	Up	GeneNum	45	GeneNum_Up
+rSADS_NS7.vs.rSADS(rSADS_delNS7_12hvsrSADS_12h)	Down	GeneNum	23	GeneNum_Down
+rSADS_NS3a.vs.rSADS(rSADS_delNS3a_12hvsrSADS_12h)	Up	MetNum_all	6	MetNum_all_Up
+rSADS_NS3a.vs.rSADS(rSADS_delNS3a_12hvsrSADS_12h)	Down	MetNum_all	21	MetNum_all_Down
+rSADS_NS7.vs.rSADS(rSADS_delNS7_12hvsrSADS_12h)	Up	MetNum_all	13	MetNum_all_Up
+rSADS_NS7.vs.rSADS(rSADS_delNS7_12hvsrSADS_12h)	Down	MetNum_all	63	MetNum_all_Down
